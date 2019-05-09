@@ -13,6 +13,7 @@ public class Test {
 
 	public void m3() {
 		System.out.println("jayamukhi eng college");
+		m2();
 	}
 
 	public static void main(String[] args) {
