@@ -11,6 +11,10 @@ public class Test {
 		System.out.println("sr engineerig college");
 	}
 
+	public void m4() {
+		System.out.println("sandeep");
+	}
+
 	public static void main(String[] args) {
 
 		Test t = new Test();
